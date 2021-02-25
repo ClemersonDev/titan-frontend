@@ -10,7 +10,7 @@ export default (props) => {
             <div className="menu-item-personal">
                 <section className="menu-item-foto">
                     <FaUser/>
-                    <FaEdit id="edit-icon" />
+                    {/* <FaEdit id="edit-icon" /> */}
                 </section>
                 <section className="menu-item-dados">
                     <strong className="menu-item-nome">Olá, Clemerson Costa</strong>
